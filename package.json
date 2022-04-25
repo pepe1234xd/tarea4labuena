@@ -1,0 +1,19 @@
+{
+  "name": "tarea4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon -e .js,.ts api/app.js"
+  },
+  "keywords": [],
+  "author": "jose alfredo figueroa sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-session": "^1.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,79 @@
+{
+    "colors":[
+        {
+            "id": 1,
+            "color": "red",
+            "value": "#FF0000"
+        },
+        {
+            "id": 2,
+            "color": "blue",
+            "value": "#000FF"
+        },
+        {
+            "id": 3,
+            "color": "green",
+            "value": "#00FF00"
+        },
+        {
+            "id": 4,
+            "color": "chocolate",
+            "value": "#453226"
+        },
+        {
+            "id": 5,
+            "color": "watermelon",
+            "value": "#FE7F9C"
+        },
+        {
+            "id": 6,
+            "color": "azulbonito",
+            "value": "#FFFFFF"
+        },
+        {
+            "id": 7,
+            "color": "rosita",
+            "value": "#FF66FF"
+        },
+        {
+            "id": 8,
+            "color": "naranjaclaro",
+            "value": "#FFF3CC"
+        },
+        {
+            "id": 9,
+            "color": "cafe",
+            "value": "#330000"
+        },
+        {
+            "id": 10,
+            "color": "otrorosa",
+            "value": "#FFCCCC"
+        },
+        {
+            "id": 11,
+            "color": "gris",
+            "value": "#E0E0E0"
+        },
+        {
+            "id": 12,
+            "color": "negro",
+            "value": "#00000"
+        },
+        {
+            "id": 13,
+            "color": "verdebajito",
+            "value": "#CCFFCC"
+        },
+        {
+            "id": 14,
+            "color": "amarillopatito",
+            "value": "#FFFFCC"
+        },
+        {
+            "id": 15,
+            "color": "rosamasaca",
+            "value": "#FF3390"
+        }
+    ]
+}
